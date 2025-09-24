@@ -1,0 +1,8 @@
+id,id_libro,fecha_prestamo,fecha_devolucion,usuario_prestatario
+1,1,2025-09-01,,alumno1
+2,2,2025-08-20,2025-08-30,alumno2
+3,3,2025-09-05,,alumno3
+4,4,2025-07-10,2025-07-20,alumno4
+5,1,2025-06-01,2025-06-10,alumno5
+6,9,2025-09-15,,alumno6
+7,10,2025-09-18,,alumno7
