@@ -58,6 +58,8 @@ REVOKE DELETE ON ALL TABLES IN SCHEMA public FROM lectores;
 ALTER DEFAULT PRIVILEGES IN SCHEMA public REVOKE DELETE ON TABLES FROM lectores;
 ```
 
+![users](results-img/users.png)
+
 ## 3
 
 ### a
@@ -95,7 +97,7 @@ CREATE TABLE prestamos (
 );
 ```
 
-![users](results-img/users.png)
+![Tables](results-img/Tables.png)
 
 ## 4
 
